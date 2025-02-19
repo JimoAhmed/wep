@@ -1,0 +1,33 @@
+
+body{
+    background-image: url(../images/contact.jpeg)
+
+}
+footer{
+    text-align:center;
+    background-color:#fff !important;
+    color:#696f73;
+}
+.icon{
+    font-size:20px;
+}
+
+
+.foot{
+    margin-bottom: 0px !important;
+}
+
+
+
+
+h1{
+    text-align:center;
+}
+
+
+
+    h1{
+
+        color:white;
+    }
+    

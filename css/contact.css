@@ -1,0 +1,28 @@
+body{
+    background-image: url(../images/p1.jpeg)
+
+}
+footer{
+    text-align:center;
+    background-color:#fff !important;
+    color:#696f73;
+}
+.icon{
+    font-size:20px;
+}
+
+
+
+.form{
+
+    max-width: 800px;
+    margin-top: 100px ;
+    margin-left:350px;
+    padding: 150px;
+    background:rgba(129, 114, 114, 0.7);
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+.foot{
+    margin-bottom: 0px !important;
+}

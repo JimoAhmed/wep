@@ -1,0 +1,44 @@
+header{
+height:100px;
+}
+
+header nav{
+    height:100%;
+    z-index: 6;
+}
+.main-section{
+    position:relative;
+    height: 800px;
+    width: 100vw;
+    overflow: auto;
+}
+.background-overlay{
+    background:rgba(0,0,0,0.4);
+    position:absolute;
+    top:0;
+    left:0;    
+    height:100%;
+    width:100% ;
+    z-index: 1;
+}
+
+.about-us-text{
+    z-index: 100;
+    position:absolute;
+    color:white
+}
+body{
+    background-image: url(../images/about.jpeg)
+
+}
+footer{
+    text-align:center;
+    background-color:#fff !important;
+    color:#696f73;
+}
+.icon{
+    font-size:20px;
+}
+.foot{
+    margin-bottom: 0px !important;
+}

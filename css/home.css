@@ -1,0 +1,14 @@
+body{
+    background-image: url(../images/home.jpeg)
+}
+footer{
+    text-align:center;
+    background-color:#fff !important;
+    color:#696f73;
+}
+.icon{
+    font-size:20px;
+}
+.foot{
+    margin-bottom: 0px !important;
+}

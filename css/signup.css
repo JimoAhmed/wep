@@ -1,0 +1,38 @@
+body{
+    font-family:"sitka banner",Arial, sans-serif;
+    text-align: center;
+    color: #d6336c;
+    background-image:url(../images/signup.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+
+
+.container {
+   
+    max-width: 800px;
+    margin-top: 100px ;
+    margin-left:350px;
+    padding: 100px;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+
+.btn{
+
+    display: inline-block; 
+    padding: 10px 20px;
+    border: 1px solid black; 
+    border-radius: 10px; 
+    color: black; 
+    font-size: 12px;
+    transition: 0.3s; 
+    text-align: center;
+
+
+}
